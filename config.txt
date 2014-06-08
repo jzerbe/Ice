@@ -7,7 +7,7 @@
 # If no directory is provided, "~/ROMs" is used.
 # Example:
 # ~\ROMs                     => C:\Users\<YOUR USERNAME>\ROMs
-ROMs Directory=
+ROMs Directory=/home/ROMs
 
 # Set a directory to store backups of your shortcuts.vdf file. if left blank,
 # no backups will be created. The backups are created within this directory
