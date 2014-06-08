@@ -30,3 +30,20 @@
 # [SNES9X-GTK]
 # location=/usr/bin/snes9x-gtk
 # command=%l %r
+
+[ePSXe]
+location=/home/epsxe/epsxe
+command=%l -nogui -loadiso %r
+
+[Mupen64plus]
+location=/usr/games/mupen64plus
+command=%l %r
+
+#[PCSXR]
+#location=/usr/games/pcsx
+#command=%l -nogui -cdfile %r
+
+[ZSNES]
+location=/usr/bin/zsnes
+command=%l -v 11 -m %r
+

@@ -51,50 +51,50 @@
 # icon=C:\Games\Super Nintendo\icon.png
 # images directory=C:\Games\Super Nintendo\Images
 #
-[Nintendo Entertainment System]
-nickname=NES
-emulator=
+#[Nintendo Entertainment System]
+#nickname=NES
+#emulator=
 
 [Super Nintendo]
 nickname=SNES
-emulator=
+emulator=ZSNES
 
 [Nintendo 64]
 nickname=N64
-emulator=
+emulator=Mupen64plus
 
-[Nintendo Gamecube]
-nickname=Gamecube
-emulator=
+#[Nintendo Gamecube]
+#nickname=Gamecube
+#emulator=
 
-[Nintendo Wii]
-nickname=Wii
-emulator=
+#[Nintendo Wii]
+#nickname=Wii
+#emulator=
 
 [Playstation 1]
 nickname=PS1
-emulator=
+emulator=ePSXe
 
-[Playstation 2]
-nickname=PS2
-emulator=
+#[Playstation 2]
+#nickname=PS2
+#emulator=
 
-[Sega Genesis]
-nickname=Genesis
-emulator=
+#[Sega Genesis]
+#nickname=Genesis
+#emulator=
 
-[Sega Dreamcast]
-nickname=Dreamcast
-emulator=
+#[Sega Dreamcast]
+#nickname=Dreamcast
+#emulator=
 
-[Nintendo Gameboy]
-nickname=Gameboy
-emulator=
+#[Nintendo Gameboy]
+#nickname=Gameboy
+#emulator=
 
-[Gameboy Advance]
-nickname=GBA
-emulator=
+#[Gameboy Advance]
+#nickname=GBA
+#emulator=
 
-[Nintendo DS]
-nickname=DS
-emulator=
+#[Nintendo DS]
+#nickname=DS
+#emulator=
